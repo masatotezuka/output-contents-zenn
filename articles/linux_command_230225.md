@@ -1,5 +1,5 @@
 ---
-title: "Linuxコマンド"
+title: "Linuxコマンドの逆引き辞典"
 emoji: "📚"
 type: "tech"
 topics:
