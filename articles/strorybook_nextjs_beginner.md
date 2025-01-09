@@ -3,7 +3,8 @@ title: "Next.jsでStorybook入門してみた"
 emoji: "📕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["storybook", "nextjs", "shadcnui"]
-published: false
+published: true
+published_at: 2025-01-10 19:30
 ---
 
 # はじめに
